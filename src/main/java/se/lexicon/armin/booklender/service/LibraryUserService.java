@@ -1,7 +1,8 @@
 package se.lexicon.armin.booklender.service;
 
+
 import se.lexicon.armin.booklender.dto.LibraryUserDto;
-import se.lexicon.armin.booklender.entity.LibraryUser;
+
 
 import java.util.List;
 
